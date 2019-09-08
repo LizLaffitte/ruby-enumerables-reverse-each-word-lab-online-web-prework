@@ -3,6 +3,6 @@ def reverse_each_word(your_string)
   
 end
 
-reverse_each_word("Hello there, and how are you?").collect()) do
+reverse_each_word("Hello there, and how are you?").collect() do
   |word| p word 
 end
